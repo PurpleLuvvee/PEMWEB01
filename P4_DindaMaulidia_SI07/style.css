@@ -1,0 +1,74 @@
+.border fieldset{
+	width: 800px;
+	height: 580px;
+
+
+}
+
+.profile img{
+	border-collapse: 1;
+	width: 180px;
+	height: 190px;
+	border: 0;
+	float: left;
+}
+
+.profilepg h1{
+	font-family: Break Dance;
+	margin: 0px 220px;
+	/* float: ; */
+}
+.profilepg h2{
+	font-family: Break Dance;
+	text-align: right;
+	font-size: 20px;
+	margin: -9px 18px 8px 0px;
+}
+.profilepg2 p{
+	font-family: Angsana New;
+	text-align: right;
+	font-size: 20px; 
+	margin: -55px 10px 0px 10px;
+} 
+
+.profilepg p{
+	font-family: Baskerville Old Face;
+	margin: 12px 200px;	
+}
+
+.hoby p{
+	text-align: right;
+}
+
+.article p{
+	text-align: left;
+	height: 20px;
+}
+
+.video video{
+	margin-left: 60px;
+	float: left;
+	width: 200px;
+	height: 150px;
+}
+
+.gambar img{
+	margin-left: 50px;
+	width: 160px;
+	height: 160px;
+}
+
+.link{
+	margin-right: 6em;
+}
+
+.link fieldset{
+	width: 10px;
+	height: 140px;
+	margin-left: 35em;
+}
+
+/* .link a{
+	margin-right: 30px;
+	height: -10px;
+} */
